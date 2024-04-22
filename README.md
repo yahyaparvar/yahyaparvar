@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yahyaparvar1@gmail.com**
 
-- ⚡ Fun fact **You can actually get all this data in my portfolio at `https://yaya-parvar.vercel.app` **
+- ⚡ Also: Stay tuned for new version of next.js starter template!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
