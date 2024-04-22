@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yahyaparvar1@gmail.com**
 
-- ⚡ Fun fact **Bananas are naturally radioactive because they contain potassium-40, so technically, you could use them to set off a Geiger counter at a banana-themed rave!**
+- ⚡ Fun fact **You can actually get all this data in my portfolio at `https://yaya-parvar.vercel.app` **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
