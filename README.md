@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Event Bus**
 
-- 🌱 I’m currently learning **Three JS**
+- 🌱 I’m currently learning **Unreal Engine**
 
 - 👨‍💻 All of my projects are available at [https://yaya-parvar.vercel.app](https://yaya-parvar.vercel.app)
 
