@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yaya</h1>
-<h3 align="center">Front-end Developer</h3>
+
+![Header](https://i.ibb.co/XCQBBxr/github-header-image-2.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaparvar&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaparvar" /> </p>
 
 - 🔭 I’m currently working on [react_asset_gen](https://www.npmjs.com/package/react_asset_gen)
