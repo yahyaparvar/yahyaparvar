@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaparvar&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaparvar" /> </p>
 
-- 🔭 I’m currently working on [react_asset_gen](https://www.npmjs.com/package/react_asset_gen)
+- 🔭 I’m currently open to work
 - 🌱 I’m currently learning **Unreal Engine**
 - 💬 Ask me about **React, Flutter, NodeJS, Solidity, Web3, Blockchain, etc.**
 - 📫 How to reach me yahyaparvar1@gmail.com
 - 👨‍💻 All of my projects are available at **https://yaya-parvar.vercel.app**
-- ⚡ Also: **Stay tuned for new version of next.js starter template!**
+- ⚡ Also: My next.js template has been released <a href="https://vercel.com/new/yahya-parvars-projects/templates/next.js/nextjs-v14-starterkit" target="_blank">Check it out</a>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yahya-parvar-22b6591ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/yahyaparvar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
