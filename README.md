@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaparvar&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaparvar" /> [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAH6rw_O6p2ery3WG-t7GEQ?logo=youtube&logoColor=red&style=for-the-badge)] </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaparvar&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaparvar" /> </p>
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAH6rw_O6p2ery3WG-t7GEQ?logo=youtube&logoColor=red&style=for-the-badge)] 
 
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning **Unreal Engine**
