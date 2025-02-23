@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaparvar&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaparvar" /> </p>
 
-- 💬 Check out <a href="https://spaike-app.vercel.app/" target="_blank">SPAIKE</a>
-- 👨‍💻 All of my projects are available at **https://yaya-parvar.vercel.app**
+- 👨‍💻 My projects are available at **https://yaya-parvar.vercel.app**
 - ⚡ Also: My next.js template has been released <a href="https://vercel.com/new/yahya-parvars-projects/templates/next.js/nextjs-v14-starterkit" target="_blank">Check it out</a>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yahya-parvar-22b6591ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
