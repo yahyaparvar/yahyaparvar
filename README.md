@@ -21,7 +21,7 @@ me:
 ### <img src="https://i.ibb.co/Qv42YxQG/bar-graph.png" width="30px">  <img src="https://i.ibb.co/0R7s1RNQ/bout-me.png" alt="bout-me" width="122"></img>
 <p align="left">
 
-A seasoned Software Engineer with a passion for architecting and deploying robust, scalable applications from the ground up. I also share my knowledge in bite-size videos on youtube.
+A developer or a passionate coder, who builds robust & scalable applications from the ground up. I also share my knowledge in form of bite-size videos on youtube.
 </p>
 
 &nbsp;
