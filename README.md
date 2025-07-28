@@ -1,14 +1,14 @@
 
 &nbsp;
 
-<div align="">
+<div align="center">
 me:
   <img src="https://i.ibb.co/fWGBLtD/Pixel-Coding-Sticker-by-Arkus-Nexus-1.gif" alt="Ilustração do README" min-width="180px" max-width="180px" width="180px" align="center">
   you:
   <img src="https://i.ibb.co/fWGBLtD/Pixel-Coding-Sticker-by-Arkus-Nexus-1.gif" alt="Ilustração do README" min-width="180px" max-width="180px" width="180px" align="center">
 </div>
 
-<div align="">
+<div align="center">
 
   <a href="https://www.linkedin.com/in/yahya-parvar-22b6591ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@swanend"><img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -51,6 +51,3 @@ A seasoned Software Engineer with a passion for architecting and deploying robus
     <td align="center">Docker, Kubernetes, Jenkins</td>
   </tr>
 </table>
-
-
-
