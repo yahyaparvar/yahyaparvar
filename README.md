@@ -3,9 +3,9 @@
 
 <div align="">
 me:
-  <img src="https://i.ibb.co/fWGBLtD/Pixel-Coding-Sticker-by-Arkus-Nexus-1.gif" alt="Ilustração do README" min-width="220px" max-width="220px" width="220px" align="center">
+  <img src="https://i.ibb.co/fWGBLtD/Pixel-Coding-Sticker-by-Arkus-Nexus-1.gif" alt="Ilustração do README" min-width="185px" max-width="185px" width="185px" align="center">
   you:
-  <img src="https://i.ibb.co/fWGBLtD/Pixel-Coding-Sticker-by-Arkus-Nexus-1.gif" alt="Ilustração do README" min-width="220px" max-width="220px" width="220px" align="center">
+  <img src="https://i.ibb.co/fWGBLtD/Pixel-Coding-Sticker-by-Arkus-Nexus-1.gif" alt="Ilustração do README" min-width="185px" max-width="185px" width="185px" align="center">
 </div>
 
 <div align="">
