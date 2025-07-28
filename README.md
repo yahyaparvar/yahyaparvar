@@ -1,17 +1,17 @@
 
 &nbsp;
-<div align="center">
+<div align="">
   <img src="https://i.ibb.co/fWGBLtD/Pixel-Coding-Sticker-by-Arkus-Nexus-1.gif" alt="Ilustração do README" min-width="220px" max-width="220px" width="220px" align="center">
 </div>
 <br>
 
-<div align="center">
+<div align="">
 
   <a href="https://www.linkedin.com/in/yahya-parvar-22b6591ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@swanend"><img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:yahyaparvar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://stackoverflow.com/users/14271110/yaya"><img src="https://img.shields.io/badge/stack-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="StackOverflow"></a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yahyaparvar&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaparvar" /> </p>
+  <p align=""> <img src="https://komarev.com/ghpvc/?username=yahyaparvar&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaparvar" /> </p>
 </div>
 
 ---
@@ -48,3 +48,6 @@ A seasoned Software Engineer with a passion for architecting and deploying robus
     <td align="center">Docker, Kubernetes, Jenkins</td>
   </tr>
 </table>
+
+
+
