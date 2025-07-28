@@ -1,9 +1,12 @@
 
 &nbsp;
+
 <div align="">
+me:
+  <img src="https://i.ibb.co/fWGBLtD/Pixel-Coding-Sticker-by-Arkus-Nexus-1.gif" alt="Ilustração do README" min-width="220px" max-width="220px" width="220px" align="center">
+  you:
   <img src="https://i.ibb.co/fWGBLtD/Pixel-Coding-Sticker-by-Arkus-Nexus-1.gif" alt="Ilustração do README" min-width="220px" max-width="220px" width="220px" align="center">
 </div>
-<br>
 
 <div align="">
 
